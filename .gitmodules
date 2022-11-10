@@ -1,3 +1,6 @@
 [submodule "themes/themes/newsplit"]
 	path = themes/themes/newsplit
 	url = https://github.com/immartian/split-landing
+[submodule "themes/newsplit2"]
+	path = themes/newsplit2
+	url = https://github.com/immartian/split-landing

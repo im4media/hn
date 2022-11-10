@@ -1,7 +1,7 @@
 baseURL = 'http://mightier.news/'
 languageCode = 'en-us'
 title = 'Mightier News'
-theme = "split-landing"
+theme = "newsplit"
 
 [params]
     showCenterTitleAndImage = true #disable the center title and logo image

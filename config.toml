@@ -1,0 +1,19 @@
+baseURL = 'http://mightier.news/'
+languageCode = 'en-us'
+title = 'Mightier News'
+theme = "split-landing"
+
+[params]
+    showCenterTitleAndImage = true #disable the center title and logo image
+    mainTitle = "News Judged by You(Coming Soon...)"
+    mainImage = "images/logo_mn.svg"
+    leftTitle = "👍"
+    leftSubTitle = "I value it"
+    leftJpg = "images/crowd_news.png"
+    leftButtonText = "Upvote"
+    leftLink = "#"
+    rightTitle = "👎"
+    rightSubTitle = "I doubt it"
+    rightJpg = "images/disinformation_bbs.png"
+    rightButtonText = "Downvote"
+    rightLink = "#"

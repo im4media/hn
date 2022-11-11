@@ -1,6 +1,6 @@
 baseURL = 'http://mightier.news/'
 languageCode = 'en-us'
-title = 'Mightier News'
+title = 'Be Mightier'
 theme = "newsplit"
 
 [params]

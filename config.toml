@@ -1,6 +1,6 @@
 baseURL = 'http://here.news/'
 languageCode = 'en-us'
-title = 'You Are Mightier'
+title = 'Here's the news'
 theme = "newsplit"
 
 [params]
@@ -8,7 +8,7 @@ theme = "newsplit"
     mainTitle = "HERE comes future news(Coming Soon...)"
     mainImage = "images/logo_mn.svg"
     leftTitle = "👍"
-    leftSubTitle = "2 cents to valuable content?"
+    leftSubTitle = "Give 2 cents to valuable content?"
     leftJpg = "images/debate.png"
     leftButtonText = "I value it"
     leftLink = "#"

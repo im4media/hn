@@ -1,19 +1,19 @@
-baseURL = 'http://mightier.news/'
+baseURL = 'http://here.news/'
 languageCode = 'en-us'
 title = 'You Are Mightier'
 theme = "newsplit"
 
 [params]
     showCenterTitleAndImage = true #disable the center title and logo image
-    mainTitle = "Co-create future news(Coming Soon...)"
+    mainTitle = "HERE comes future news(Coming Soon...)"
     mainImage = "images/logo_mn.svg"
     leftTitle = "👍"
-    leftSubTitle = "Do you want to give 2 cents to valuable content?"
+    leftSubTitle = "2 cents to valuable content?"
     leftJpg = "images/debate.png"
     leftButtonText = "I value it"
     leftLink = "#"
     rightTitle = "👎"
-    rightSubTitle = "Do you want to pay 2 cents to defend the truth?"
+    rightSubTitle = "Pay 2 cents to defend the truth?"
     rightJpg = "images/zombies.png"
     rightButtonText = "I doubt it"
     rightLink = "#"

@@ -5,7 +5,7 @@ theme = "newsplit"
 
 [params]
     showCenterTitleAndImage = true #disable the center title and logo image
-    mainTitle = "HERE comes future news(Coming Soon...)"
+    mainTitle = "Future news is here(Coming Soon...)"
     mainImage = "images/logo_mn.svg"
     leftTitle = "👍"
     leftSubTitle = "Give 2 cents to valuable content?"

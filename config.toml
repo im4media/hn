@@ -1,6 +1,6 @@
 baseURL = 'http://here.news/'
 languageCode = 'en-us'
-title = 'Here's the news'
+title = "Here's the news"
 theme = "newsplit"
 
 [params]
